@@ -1,0 +1,17 @@
+1. Messages sent from input box, and appear in text box above
+
+2.Alllow user to change name via command : "/nick [name]", then rename announcement will in here
+
+3.Allow user to create new chat room via commond: "/join [roomname]", then list new room at left of text box.
+
+
+Font Part:(static)
+	CSS:
+	HTML:
+	Client JS:
+	Handle chat messaging 
+
+Background part:(dynamic)
+	Handle chat messaging
+	Server JS:
+	DB:
